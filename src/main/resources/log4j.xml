@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="global.sesoc.gitprac">
+	<logger name="global.sesoc.project">
 		<level value="info" />
 	</logger>
 	
